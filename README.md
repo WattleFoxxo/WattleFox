@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @GlacierTheArcticFox
-- 📫 Discord GlacierTheArcticFox#8526
+- 📫 My discord is GlacierTheArcticFox#8558
+- 💻 My github is [github.com/GlacierTheArcticFox](https://github.com/GlacierTheArcticFox)
 
 <!---
 GlacierTheArcticFox/GlacierTheArcticFox is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
