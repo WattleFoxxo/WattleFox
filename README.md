@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @GlacierTheArcticFox
+- 👋 Hi, I’m @WattleFoxxo
 - 📫 My discord is GlacierTheArcticFox#8558
 - 💻 My github is [github.com/GlacierTheArcticFox](https://github.com/GlacierTheArcticFox)
 
