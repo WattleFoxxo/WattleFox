@@ -4,6 +4,10 @@ html {
     --main-background-light: white;
 }
 
+body {
+    background-image: url("../img/geometry2.png")
+}
+
 .title {
     text-align: center;
 }
@@ -15,21 +19,22 @@ html {
 .item {
     display: inline-block;
     margin-top: 5px;
+    overflow: hidden;
 }
 
 .paper-btn.btn-discord-outline {
-  background-color: #41403e;
-  background-color: white;
-  color: #41403e;
-  color: #7289da;
-  border-color: #41403e;
-  border-color: #7289da;
+    background-color: #41403e;
+    background-color: white;
+    color: #41403e;
+    color: #7289da;
+    border-color: #41403e;
+    border-color: #7289da;
 }
 
 .paper-btn.btn-discord-outline:hover {
-  background-color: #d5d9e6;
+    background-color: #d5d9e6;
 }
 
 .paper-btn.btn-discord-outline:hover:active {
-  background-color: #b4bcdb;
+    background-color: #b4bcdb;
 }
