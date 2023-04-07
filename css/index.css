@@ -1,0 +1,35 @@
+html {
+    scroll-behavior: smooth;
+    --main-background: white;
+    --main-background-light: white;
+}
+
+.title {
+    text-align: center;
+}
+
+.wrapper {
+    display: block;
+}
+
+.item {
+    display: inline-block;
+    margin-top: 5px;
+}
+
+.paper-btn.btn-discord-outline {
+  background-color: #41403e;
+  background-color: white;
+  color: #41403e;
+  color: #7289da;
+  border-color: #41403e;
+  border-color: #7289da;
+}
+
+.paper-btn.btn-discord-outline:hover {
+  background-color: #d5d9e6;
+}
+
+.paper-btn.btn-discord-outline:hover:active {
+  background-color: #b4bcdb;
+}
