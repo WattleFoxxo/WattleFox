@@ -34,6 +34,10 @@ body {
     background-color: #b4bcdb;
 }
 
+.container {
+  max-width: 995px;
+}
+
 .item-boarder {
   border-bottom-left-radius: 5px 255px;
   border-bottom-right-radius: 225px 5px;
