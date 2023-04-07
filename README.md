@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @WattleFoxxo
-- 📫 My discord is GlacierTheArcticFox#8558
-- 💻 My github is [github.com/GlacierTheArcticFox](https://github.com/GlacierTheArcticFox)
+- 💻 My github is [github.com/WattleFoxxo](https://github.com/WattleFoxxo/)
+- 🌐 My website is [wattlefoxxo.github.io/WattleFox/home](https://wattlefoxxo.github.io/WattleFox/home)
 
 <!---
 GlacierTheArcticFox/GlacierTheArcticFox is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
